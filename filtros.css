@@ -1,0 +1,24 @@
+.corpo{
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+
+}
+.destaque{
+    background-color: darkturquoise;
+}
+img {
+    width: 100%;
+    height:max-content;
+    max-width: 300px;
+  }
+  
+  .blur {filter: blur(1px);}
+  .brightness {filter: brightness(55%);}
+  .contrast {filter: contrast(90%);}
+  .grayscale {filter: grayscale(2500%);}
+  .huerotate {filter: hue-rotate(180deg);}
+  .invert {filter: invert(25%);}
+  .opacity {filter: opacity(60%);}
+  .saturate {filter: saturate(2);}
+  .sepia {filter: sepia(55%);}
+  .shadow {filter: drop-shadow(18px 16px 20px rgb(36, 26, 66));}
